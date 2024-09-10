@@ -8,3 +8,4 @@ Sept 2024
 - [ ] [react-mistakes](https://www.youtube.com/watch?v=oc_TNtCe2sY&t=457s)
 - [ ] yargs ~ command line library
 - [ ] just ~ helper function
+- [ ] [Visual Guide to the Modern Frontend Toolchain](https://www.youtube.com/watch?v=M_edImKoEt8)
