@@ -9,3 +9,8 @@ Sept 2024
 - [ ] yargs ~ command line library
 - [ ] just ~ helper function
 - [ ] [Visual Guide to the Modern Frontend Toolchain](https://www.youtube.com/watch?v=M_edImKoEt8)
+
+Full Course
+---
+- [x] [react14hrs](https://www.youtube.com/watch?v=dz458ZkBMak)
+
