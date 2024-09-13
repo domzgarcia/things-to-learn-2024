@@ -15,3 +15,8 @@ Full Course
 ---
 - [x] [react14hrs](https://www.youtube.com/watch?v=dz458ZkBMak)
 
+Outstanding
+---
+- [ ] [awesome-react](https://github.com/enaqx/awesome-react))
+- [ ] Prisma / zustand
+
