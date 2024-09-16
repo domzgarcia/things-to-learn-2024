@@ -10,6 +10,9 @@ Sept 2024
 - [ ] just ~ helper function
 - [ ] [Visual Guide to the Modern Frontend Toolchain](https://www.youtube.com/watch?v=M_edImKoEt8)
 - [ ] [JackHerrington](https://www.youtube.com/watch?v=LKVHFHJsiO0&list=PLNqp92_EXZBJ4CBroxVBJEpAXoz1g-naZ&index=19)
+- [ ] [Promise-Abort](https://www.youtube.com/watch?v=MBlZ8Wzkbi4)
+- [ ] [ReactTS](https://www.youtube.com/watch?v=665UnOGx3Pg)
+
 
 Full Course
 ---
@@ -18,7 +21,6 @@ Full Course
 Outstanding
 ---
 - [ ] [awesome-react](https://github.com/enaqx/awesome-react)
-- [ ] [ReactTS](https://www.youtube.com/watch?v=665UnOGx3Pg)
 - [ ] [12mins React](https://www.youtube.com/watch?v=wIyHSOugGGw)
 - [ ] Prisma / zustand
 - [ ] [RSkit](https://github.com/kriasoft/react-starter-kit)
