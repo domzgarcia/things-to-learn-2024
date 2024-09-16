@@ -21,6 +21,7 @@ Full Course
 Outstanding
 ---
 - [ ] [awesome-react](https://github.com/enaqx/awesome-react)
+- [ ] [RealEstate](https://github.com/vahid-nejad/NextJS-RealEstate-Clone)
 - [ ] [ReduxToolkit](https://www.youtube.com/watch?v=EqbwHO6Vgbg)
 - [ ] [12mins React](https://www.youtube.com/watch?v=wIyHSOugGGw)
 - [ ] Prisma / zustand
