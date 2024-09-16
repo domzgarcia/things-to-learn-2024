@@ -24,6 +24,7 @@ Outstanding
 - [ ] [awesome-react](https://github.com/enaqx/awesome-react)
 - [ ] [RealEstate](https://github.com/vahid-nejad/NextJS-RealEstate-Clone)
 - [ ] [ReduxToolkit](https://www.youtube.com/watch?v=EqbwHO6Vgbg)
+- [ ] [ReduxToolkit-GH](https://github.com/ShakyaCW/Redux-Toolkit-Setup-in-Next.js/blob/master/src/app/page.tsx)
 - [ ] [12mins React](https://www.youtube.com/watch?v=wIyHSOugGGw)
 - [ ] Prisma / zustand
 - [ ] [RSkit](https://github.com/kriasoft/react-starter-kit)
