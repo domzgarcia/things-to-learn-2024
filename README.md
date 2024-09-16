@@ -12,6 +12,7 @@ Sept 2024
 - [ ] [JackHerrington](https://www.youtube.com/watch?v=LKVHFHJsiO0&list=PLNqp92_EXZBJ4CBroxVBJEpAXoz1g-naZ&index=19)
 - [ ] [Promise-Abort](https://www.youtube.com/watch?v=MBlZ8Wzkbi4)
 - [ ] [ReactTS](https://www.youtube.com/watch?v=665UnOGx3Pg)
+- [ ] [ReactJS Article1](https://medium.com/inforwaves-blogs/how-to-setup-redux-toolkit-in-next-js-app-router-82bde47fb863)
 
 
 Full Course
