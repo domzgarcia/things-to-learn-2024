@@ -21,4 +21,5 @@ Outstanding
 - [ ] Prisma / zustand
 - [ ] [RSkit](https://github.com/kriasoft/react-starter-kit)
 - [ ] [Best Practices](https://www.youtube.com/watch?v=5r25Y9Vg2P4)
+- [ ] [Pattern](https://www.youtube.com/watch?v=YMAwgRwjEOQ)
 
