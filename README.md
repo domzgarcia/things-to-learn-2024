@@ -18,6 +18,7 @@ Sept 2024
 Full Course
 ---
 - [x] [react14hrs](https://www.youtube.com/watch?v=dz458ZkBMak)
+- [ ] [FoalTS](https://www.youtube.com/watch?v=Sev1fv7OzZc&list=PLY6oTPmKnKbY6v7zR9h1INfywh-qFLSQ_&index=9)
 
 Outstanding
 ---
