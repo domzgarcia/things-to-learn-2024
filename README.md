@@ -1,3 +1,7 @@
+October Focus 2024
+---
+- [x] [ByteGrad](https://www.youtube.com/watch?v=Qdkg_mrniLk&list=PLK5U0tyd34tBYZ1L6rplNfFNNQPwgCRR0&index=1)
+
 Sept 2024
 ---
 - [x] [react-fixes](https://youtu.be/4k6Xgjqkad4)
