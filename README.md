@@ -1,6 +1,7 @@
 October Focus 2024
 ---
 - [x] [ByteGrad](https://www.youtube.com/watch?v=Qdkg_mrniLk&list=PLK5U0tyd34tBYZ1L6rplNfFNNQPwgCRR0&index=1)
+- [ ] [Nginx-Hostinger](https://www.youtube.com/watch?v=vwSlYG7hFk0)
 
 Sept 2024
 ---
